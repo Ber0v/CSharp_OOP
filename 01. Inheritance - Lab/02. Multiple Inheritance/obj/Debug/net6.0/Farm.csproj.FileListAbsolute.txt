@@ -1,0 +1,15 @@
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\Farm.exe
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\Farm.deps.json
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\Farm.runtimeconfig.json
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\Farm.dll
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\Farm.pdb
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.sourcelink.json
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.dll
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\refint\Farm.dll
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.pdb
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+P:\CSharp_OOP\01. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\ref\Farm.dll
