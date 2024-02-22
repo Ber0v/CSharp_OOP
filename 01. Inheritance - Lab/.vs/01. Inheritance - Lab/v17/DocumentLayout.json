@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "P:\\CSharp_OOP\\01. Inheritance - Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C60C2B2-AFDE-4D65-B532-7AB3BF4FC5F8}|05. Stack of Strings\\05. Stack of Strings.csproj|p:\\csharp_oop\\01. inheritance - lab\\05. stack of strings\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C2B2-AFDE-4D65-B532-7AB3BF4FC5F8}|05. Stack of Strings\\05. Stack of Strings.csproj|solutionrelative:05. stack of strings\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C60C2B2-AFDE-4D65-B532-7AB3BF4FC5F8}|05. Stack of Strings\\05. Stack of Strings.csproj|p:\\csharp_oop\\01. inheritance - lab\\05. stack of strings\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C2B2-AFDE-4D65-B532-7AB3BF4FC5F8}|05. Stack of Strings\\05. Stack of Strings.csproj|solutionrelative:05. stack of strings\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB881CF-6214-41B7-AC09-14586996951E}|04. Random List\\04. Random List.csproj|p:\\csharp_oop\\01. inheritance - lab\\04. random list\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB881CF-6214-41B7-AC09-14586996951E}|04. Random List\\04. Random List.csproj|solutionrelative:04. random list\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB881CF-6214-41B7-AC09-14586996951E}|04. Random List\\04. Random List.csproj|p:\\csharp_oop\\01. inheritance - lab\\04. random list\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB881CF-6214-41B7-AC09-14586996951E}|04. Random List\\04. Random List.csproj|solutionrelative:04. random list\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8C1A396-7713-427D-AF4A-6426CF855138}|03. Hierarchical Inheritance\\03. Hierarchical Inheritance.csproj|p:\\csharp_oop\\01. inheritance - lab\\03. hierarchical inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C1A396-7713-427D-AF4A-6426CF855138}|03. Hierarchical Inheritance\\03. Hierarchical Inheritance.csproj|solutionrelative:03. hierarchical inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +43,16 @@
       "RelativeMoniker": "D:0:0:{178401AB-4535-431E-856B-13181EDC25EA}|02. Multiple Inheritance\\Farm.csproj|solutionrelative:02. multiple inheritance\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|solutionrelative:01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|solutionrelative:01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|solutionrelative:01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|solutionrelative:01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\Farm.csproj|solutionrelative:01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|p:\\csharp_oop\\01. inheritance - lab\\01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D5D723-9D14-4E7A-9065-5AC74AEB124E}|01. Single Inheritance\\SingleInheritance.csproj|solutionrelative:01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +62,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StackOfStrings.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\05. Stack of Strings\\StackOfStrings.cs",
+              "RelativeDocumentMoniker": "05. Stack of Strings\\StackOfStrings.cs",
+              "ToolTip": "P:\\CSharp_OOP\\01. Inheritance - Lab\\05. Stack of Strings\\StackOfStrings.cs",
+              "RelativeToolTip": "05. Stack of Strings\\StackOfStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:17:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\05. Stack of Strings\\StartUp .cs",
+              "RelativeDocumentMoniker": "05. Stack of Strings\\StartUp .cs",
+              "ToolTip": "P:\\CSharp_OOP\\01. Inheritance - Lab\\05. Stack of Strings\\StartUp .cs",
+              "RelativeToolTip": "05. Stack of Strings\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:16:16.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomList.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\04. Random List\\RandomList.cs",
+              "RelativeDocumentMoniker": "04. Random List\\RandomList.cs",
+              "ToolTip": "P:\\CSharp_OOP\\01. Inheritance - Lab\\04. Random List\\RandomList.cs",
+              "RelativeToolTip": "04. Random List\\RandomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:07:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\04. Random List\\StartUp .cs",
+              "RelativeDocumentMoniker": "04. Random List\\StartUp .cs",
+              "ToolTip": "P:\\CSharp_OOP\\01. Inheritance - Lab\\04. Random List\\StartUp .cs",
+              "RelativeToolTip": "04. Random List\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:06:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StartUp.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\03. Hierarchical Inheritance\\StartUp.cs",
               "RelativeDocumentMoniker": "03. Hierarchical Inheritance\\StartUp.cs",
               "ToolTip": "P:\\CSharp_OOP\\01. Inheritance - Lab\\03. Hierarchical Inheritance\\StartUp.cs",
               "RelativeToolTip": "03. Hierarchical Inheritance\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T19:28:47.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Cat.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\03. Hierarchical Inheritance\\Cat.cs",
               "RelativeDocumentMoniker": "03. Hierarchical Inheritance\\Cat.cs",
@@ -76,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Animal.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\02. Multiple Inheritance\\Animal.cs",
               "RelativeDocumentMoniker": "02. Multiple Inheritance\\Animal.cs",
@@ -89,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Dog.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\02. Multiple Inheritance\\Dog.cs",
               "RelativeDocumentMoniker": "02. Multiple Inheritance\\Dog.cs",
@@ -102,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Puppy.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\02. Multiple Inheritance\\Puppy.cs",
               "RelativeDocumentMoniker": "02. Multiple Inheritance\\Puppy.cs",
@@ -115,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StartUp.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\02. Multiple Inheritance\\StartUp.cs",
               "RelativeDocumentMoniker": "02. Multiple Inheritance\\StartUp.cs",
@@ -127,16 +203,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Dog.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\01. Single Inheritance\\Dog.cs",
               "RelativeDocumentMoniker": "01. Single Inheritance\\Dog.cs",
@@ -149,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Animal.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\01. Single Inheritance\\Animal.cs",
               "RelativeDocumentMoniker": "01. Single Inheritance\\Animal.cs",
@@ -162,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "StartUp.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\01. Inheritance - Lab\\01. Single Inheritance\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Single Inheritance\\StartUp.cs",
