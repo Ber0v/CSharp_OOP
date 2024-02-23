@@ -1,0 +1,15 @@
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\bin\Debug\net6.0\Person.exe
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\bin\Debug\net6.0\Person.deps.json
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\bin\Debug\net6.0\Person.runtimeconfig.json
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\bin\Debug\net6.0\Person.dll
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\bin\Debug\net6.0\Person.pdb
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.sourcelink.json
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.dll
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\refint\Person.dll
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.pdb
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+P:\CSharp_OOP\02. Inheritance - Exercise\01. Person\obj\Debug\net6.0\ref\Person.dll

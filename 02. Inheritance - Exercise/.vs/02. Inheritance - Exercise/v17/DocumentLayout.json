@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|p:\\csharp_oop\\02. inheritance - exercise\\05. restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00280948-CF29-423B-90FB-822DC3FED4FF}|05. Restaurant\\Restaurant.csproj|solutionrelative:05. restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Tea.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Tea.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Tea.cs",
+              "RelativeToolTip": "05. Restaurant\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:14:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\StartUp.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\StartUp.cs",
+              "RelativeToolTip": "05. Restaurant\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:14:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Starter.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Starter.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Starter.cs",
+              "RelativeToolTip": "05. Restaurant\\Starter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:14:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Soup.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Soup.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Soup.cs",
+              "RelativeToolTip": "05. Restaurant\\Soup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:14:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Product.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Product.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Product.cs",
+              "RelativeToolTip": "05. Restaurant\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:14:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\MainDish.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\MainDish.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\MainDish.cs",
+              "RelativeToolTip": "05. Restaurant\\MainDish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\HotBeverage.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\HotBeverage.cs",
+              "RelativeToolTip": "05. Restaurant\\HotBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Food.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Food.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Food.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Food.cs",
+              "RelativeToolTip": "05. Restaurant\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:41.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Fish.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Fish.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Fish.cs",
+              "RelativeToolTip": "05. Restaurant\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:34.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Dessert.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Dessert.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Dessert.cs",
+              "RelativeToolTip": "05. Restaurant\\Dessert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:22.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\ColdBeverage.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\ColdBeverage.cs",
+              "RelativeToolTip": "05. Restaurant\\ColdBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:13:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Coffee.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Coffee.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Coffee.cs",
+              "RelativeToolTip": "05. Restaurant\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:12:48.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Cake.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Cake.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Cake.cs",
+              "RelativeToolTip": "05. Restaurant\\Cake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:12:29.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Beverage.cs",
+              "RelativeDocumentMoniker": "05. Restaurant\\Beverage.cs",
+              "ToolTip": "P:\\CSharp_OOP\\02. Inheritance - Exercise\\05. Restaurant\\Beverage.cs",
+              "RelativeToolTip": "05. Restaurant\\Beverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:12:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
