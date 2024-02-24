@@ -1,0 +1,15 @@
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\bin\Debug\net6.0\PersonsInfo.exe
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\bin\Debug\net6.0\PersonsInfo.deps.json
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\bin\Debug\net6.0\PersonsInfo.dll
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\bin\Debug\net6.0\PersonsInfo.pdb
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.sourcelink.json
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.dll
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\refint\PersonsInfo.dll
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.pdb
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+P:\CSharp_OOP\03. Encapsulation - Lab\04. Team\obj\Debug\net6.0\ref\PersonsInfo.dll

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|p:\\csharp_oop\\03. encapsulation - lab\\04. team\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|solutionrelative:04. team\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|p:\\csharp_oop\\03. encapsulation - lab\\04. team\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|solutionrelative:04. team\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|p:\\csharp_oop\\03. encapsulation - lab\\04. team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|solutionrelative:04. team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|p:\\csharp_oop\\03. encapsulation - lab\\04. team\\personsinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FDBF88B-5964-4EC2-9EBD-DEE1E722BD9A}|04. Team\\PersonsInfo.csproj|solutionrelative:04. team\\personsinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E68714-E9DE-404C-93C3-79C79B4E81F3}|03. Validation\\03. Validation.csproj|p:\\csharp_oop\\03. encapsulation - lab\\03. validation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E68714-E9DE-404C-93C3-79C79B4E81F3}|03. Validation\\03. Validation.csproj|solutionrelative:03. validation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E68714-E9DE-404C-93C3-79C79B4E81F3}|03. Validation\\PersonsInfo.csproj|p:\\csharp_oop\\03. encapsulation - lab\\03. validation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E68714-E9DE-404C-93C3-79C79B4E81F3}|03. Validation\\PersonsInfo.csproj|solutionrelative:03. validation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\Person.cs",
+              "RelativeDocumentMoniker": "04. Team\\Person.cs",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\Person.cs",
+              "RelativeToolTip": "04. Team\\Person.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:58:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Team\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\StartUp.cs",
+              "RelativeToolTip": "04. Team\\StartUp.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:56:37.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\Team.cs",
+              "RelativeDocumentMoniker": "04. Team\\Team.cs",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\Team.cs",
+              "RelativeToolTip": "04. Team\\Team.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:56:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsInfo",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\PersonsInfo.csproj",
+              "RelativeDocumentMoniker": "04. Team\\PersonsInfo.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\04. Team\\PersonsInfo.csproj",
+              "RelativeToolTip": "04. Team\\PersonsInfo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T14:53:41.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\03. Validation\\Person.cs",
+              "RelativeDocumentMoniker": "03. Validation\\Person.cs",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\03. Validation\\Person.cs",
+              "RelativeToolTip": "03. Validation\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:42:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\03. Validation\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Validation\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\03. Encapsulation - Lab\\03. Validation\\StartUp.cs",
+              "RelativeToolTip": "03. Validation\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:40:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
