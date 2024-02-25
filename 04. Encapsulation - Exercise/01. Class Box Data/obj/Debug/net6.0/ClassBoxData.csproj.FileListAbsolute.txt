@@ -1,0 +1,15 @@
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.exe
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.deps.json
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.dll
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.pdb
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.sourcelink.json
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.dll
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\refint\ClassBoxData.dll
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.pdb
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+P:\CSharp_OOP\04. Encapsulation - Exercise\01. Class Box Data\obj\Debug\net6.0\ref\ClassBoxData.dll
