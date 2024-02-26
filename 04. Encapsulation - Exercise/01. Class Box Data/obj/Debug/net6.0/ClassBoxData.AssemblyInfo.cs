@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassBoxData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa81cc9be2db47bdbef0af7c0f8856c33087d5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc439fc54d65728bf4821d4a641d6b0928c5b45a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassBoxData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassBoxData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

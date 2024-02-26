@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\02. animal farm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|solutionrelative:02. animal farm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|solutionrelative:01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|solutionrelative:02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\04. pizza calories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|solutionrelative:04. pizza calories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\04. pizza calories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|solutionrelative:04. pizza calories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\04. pizza calories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|solutionrelative:04. pizza calories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\04. pizza calories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|solutionrelative:04. pizza calories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\04. pizza calories\\pizzacalories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7BCCEAB-FEA8-4D1F-B4B5-156A9CA6339D}|04. Pizza Calories\\PizzaCalories.csproj|solutionrelative:04. pizza calories\\pizzacalories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\03. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|solutionrelative:03. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\03. shopping spree\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|solutionrelative:03. shopping spree\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\03. shopping spree\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|solutionrelative:03. shopping spree\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|solutionrelative:01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\02. animal farm\\animalfarm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|solutionrelative:02. animal farm\\animalfarm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\ClassBoxData.csproj|solutionrelative:01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\03. shopping spree\\shoppingspree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB0B3774-661E-4EEF-B408-044B5B7C3A0B}|03. Shopping Spree\\ShoppingSpree.csproj|solutionrelative:03. shopping spree\\shoppingspree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\01. Class Box Data.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E8CB7B-2E81-4BF9-945B-F2526F5387AD}|01. Class Box Data\\01. Class Box Data.csproj|solutionrelative:01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\02. animal farm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|solutionrelative:02. animal farm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|p:\\csharp_oop\\04. encapsulation - exercise\\02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD64565-AE84-496E-AA6F-8D9D640C40FC}|02. Animal Farm\\AnimalFarm.csproj|solutionrelative:02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +66,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Program.cs",
-              "RelativeDocumentMoniker": "02. Animal Farm\\Program.cs",
-              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Program.cs",
-              "RelativeToolTip": "02. Animal Farm\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Title": "Topping.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Topping.cs",
+              "RelativeDocumentMoniker": "04. Pizza Calories\\Topping.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Topping.cs",
+              "RelativeToolTip": "04. Pizza Calories\\Topping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T09:23:58.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Chicken.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Models\\Chicken.cs",
-              "RelativeDocumentMoniker": "02. Animal Farm\\Models\\Chicken.cs",
-              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Models\\Chicken.cs",
-              "RelativeToolTip": "02. Animal Farm\\Models\\Chicken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T09:24:21.58Z",
+              "WhenOpened": "2024-02-26T17:39:23.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AnimalFarm",
-              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\AnimalFarm.csproj",
-              "RelativeDocumentMoniker": "02. Animal Farm\\AnimalFarm.csproj",
-              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\AnimalFarm.csproj",
-              "RelativeToolTip": "02. Animal Farm\\AnimalFarm.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-25T09:23:52.792Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Program.cs",
+              "RelativeDocumentMoniker": "04. Pizza Calories\\Program.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Program.cs",
+              "RelativeToolTip": "04. Pizza Calories\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:39:06.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Box.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Box.cs",
-              "RelativeDocumentMoniker": "01. Class Box Data\\Box.cs",
-              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Box.cs",
-              "RelativeToolTip": "01. Class Box Data\\Box.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAjAAAA",
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Pizza.cs",
+              "RelativeDocumentMoniker": "04. Pizza Calories\\Pizza.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Pizza.cs",
+              "RelativeToolTip": "04. Pizza Calories\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T08:57:57.752Z",
+              "WhenOpened": "2024-02-26T17:38:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dough.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Dough.cs",
+              "RelativeDocumentMoniker": "04. Pizza Calories\\Dough.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\Dough.cs",
+              "RelativeToolTip": "04. Pizza Calories\\Dough.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:38:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaCalories",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\PizzaCalories.csproj",
+              "RelativeDocumentMoniker": "04. Pizza Calories\\PizzaCalories.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\04. Pizza Calories\\PizzaCalories.csproj",
+              "RelativeToolTip": "04. Pizza Calories\\PizzaCalories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T17:37:42.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Program.cs",
+              "RelativeDocumentMoniker": "03. Shopping Spree\\Program.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Program.cs",
+              "RelativeToolTip": "03. Shopping Spree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:13:28.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "03. Shopping Spree\\Models\\Product.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Models\\Product.cs",
+              "RelativeToolTip": "03. Shopping Spree\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:11:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "03. Shopping Spree\\Models\\Person.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\Models\\Person.cs",
+              "RelativeToolTip": "03. Shopping Spree\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:10:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingSpree",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\ShoppingSpree.csproj",
+              "RelativeDocumentMoniker": "03. Shopping Spree\\ShoppingSpree.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\03. Shopping Spree\\ShoppingSpree.csproj",
+              "RelativeToolTip": "03. Shopping Spree\\ShoppingSpree.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T17:09:36.352Z",
               "EditorCaption": ""
             },
             {
@@ -94,13 +195,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Program.cs",
+              "RelativeDocumentMoniker": "02. Animal Farm\\Program.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Program.cs",
+              "RelativeToolTip": "02. Animal Farm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T09:23:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Models\\Chicken.cs",
+              "RelativeDocumentMoniker": "02. Animal Farm\\Models\\Chicken.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\Models\\Chicken.cs",
+              "RelativeToolTip": "02. Animal Farm\\Models\\Chicken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T09:24:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimalFarm.csproj",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\AnimalFarm.csproj",
+              "RelativeDocumentMoniker": "02. Animal Farm\\AnimalFarm.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\02. Animal Farm\\AnimalFarm.csproj",
+              "RelativeToolTip": "02. Animal Farm\\AnimalFarm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T09:23:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Box.cs",
+              "RelativeDocumentMoniker": "01. Class Box Data\\Box.cs",
+              "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Box.cs",
+              "RelativeToolTip": "01. Class Box Data\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:57:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Program.cs",
               "RelativeDocumentMoniker": "01. Class Box Data\\Program.cs",
               "ToolTip": "P:\\CSharp_OOP\\04. Encapsulation - Exercise\\01. Class Box Data\\Program.cs",
               "RelativeToolTip": "01. Class Box Data\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T08:42:37.134Z",
               "EditorCaption": ""
