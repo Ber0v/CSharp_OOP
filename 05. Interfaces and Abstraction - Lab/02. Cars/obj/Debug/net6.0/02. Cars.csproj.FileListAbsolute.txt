@@ -1,0 +1,15 @@
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.exe
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.deps.json
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.runtimeconfig.json
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.dll
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.pdb
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfoInputs.cache
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfo.cs
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.sourcelink.json
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.dll
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\refint\02. Cars.dll
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.pdb
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.genruntimeconfig.cache
+P:\CSharp_OOP\05. Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\ref\02. Cars.dll
