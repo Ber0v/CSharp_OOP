@@ -1,0 +1,15 @@
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.sourcelink.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\Telephony.exe
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\Telephony.deps.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\Telephony.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\Telephony.pdb
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\refint\Telephony.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.pdb
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\ref\Telephony.dll

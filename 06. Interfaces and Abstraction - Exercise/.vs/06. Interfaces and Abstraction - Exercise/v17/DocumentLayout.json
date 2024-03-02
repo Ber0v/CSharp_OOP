@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\contracts\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\contracts\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\contracts\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\contracts\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\contracts\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\contracts\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\06. food shortage\\foodshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A83E22A0-C8BA-4E28-8BFA-FA6388E64FE6}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\foodshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\05.BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\05.birthdaycelebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\05.BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\05.birthdaycelebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\contracts\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\contracts\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\contracts\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\contracts\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\05. birthday celebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD79FA7-97A6-4932-AEB4-9B5120591469}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\04. border control\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\04. border control\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\04. border control\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\04. border control\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|p:\\csharp_oop\\06. interfaces and abstraction - exercise\\04. border control\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEFD6F-DBC7-4990-B08E-C0B330265404}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rebel.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Rebel.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Rebel.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Rebel.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Rebel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:37:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IBuyer.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Contracts\\IBuyer.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IBuyer.cs",
+              "RelativeToolTip": "06. Food Shortage\\Contracts\\IBuyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:36:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Contracts\\IIdentifiable.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IIdentifiable.cs",
+              "RelativeToolTip": "06. Food Shortage\\Contracts\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IBirthable.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Contracts\\IBirthable.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Contracts\\IBirthable.cs",
+              "RelativeToolTip": "06. Food Shortage\\Contracts\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Robot.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Robot.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:33.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Pet.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Pet.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:29.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Citizen.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Models\\Citizen.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Engine.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Engine.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\Engine.cs",
+              "RelativeToolTip": "06. Food Shortage\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:35:07.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodShortage",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\FoodShortage.csproj",
+              "RelativeDocumentMoniker": "06. Food Shortage\\FoodShortage.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\FoodShortage.csproj",
+              "RelativeToolTip": "06. Food Shortage\\FoodShortage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T16:33:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\StartUp.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\06. Food Shortage\\StartUp.cs",
+              "RelativeToolTip": "06. Food Shortage\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:32:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Robot.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Robot.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:22:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Pet.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Pet.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:21:41.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Citizen.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Models\\Citizen.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:19:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Contracts\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Contracts\\IIdentifiable.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Contracts\\IIdentifiable.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Contracts\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:18:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Contracts\\IBirthable.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Contracts\\IBirthable.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Contracts\\IBirthable.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Contracts\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:18:10.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Engine.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Engine.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\Engine.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Engine.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAjwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:17:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "05.BirthdayCelebrations.csproj",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\05.BirthdayCelebrations.csproj",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\05.BirthdayCelebrations.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\05.BirthdayCelebrations.csproj",
+              "RelativeToolTip": "05. Birthday Celebrations\\05.BirthdayCelebrations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T16:16:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\StartUp.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\StartUp.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:15:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Robot.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Robot.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Robot.cs",
+              "RelativeToolTip": "04. Border Control\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:38:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Citizen.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Citizen.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Citizen.cs",
+              "RelativeToolTip": "04. Border Control\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:38:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\IIdentifiable.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\IIdentifiable.cs",
+              "RelativeToolTip": "04. Border Control\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:37:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Engine.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Engine.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\Engine.cs",
+              "RelativeToolTip": "04. Border Control\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:36:53.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\06. Interfaces and Abstraction - Exercise\\04. Border Control\\StartUp.cs",
+              "RelativeToolTip": "04. Border Control\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:34:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

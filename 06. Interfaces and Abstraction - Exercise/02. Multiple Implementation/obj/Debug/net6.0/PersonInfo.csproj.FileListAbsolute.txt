@@ -1,0 +1,15 @@
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\PersonInfo.exe
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\PersonInfo.deps.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\PersonInfo.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\PersonInfo.pdb
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.sourcelink.json
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\refint\PersonInfo.dll
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.pdb
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+P:\CSharp_OOP\06. Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\ref\PersonInfo.dll
