@@ -1,0 +1,15 @@
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\bin\Debug\net6.0\Shapes.exe
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\bin\Debug\net6.0\Shapes.deps.json
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\bin\Debug\net6.0\Shapes.dll
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\bin\Debug\net6.0\Shapes.pdb
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.sourcelink.json
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.dll
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\refint\Shapes.dll
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.pdb
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+P:\CSharp_OOP\07. Polymorphism - Lab\03. Shapes\obj\Debug\net6.0\ref\Shapes.dll
