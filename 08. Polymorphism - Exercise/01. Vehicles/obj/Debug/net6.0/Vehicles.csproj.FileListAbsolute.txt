@@ -1,0 +1,15 @@
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\Vehicles.exe
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\Vehicles.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\Vehicles.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.sourcelink.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
