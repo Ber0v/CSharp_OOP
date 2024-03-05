@@ -1,0 +1,15 @@
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\bin\Debug\net6.0\Raiding.exe
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\bin\Debug\net6.0\Raiding.deps.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\bin\Debug\net6.0\Raiding.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\bin\Debug\net6.0\Raiding.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.sourcelink.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\refint\Raiding.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\03. Raiding\obj\Debug\net6.0\ref\Raiding.dll

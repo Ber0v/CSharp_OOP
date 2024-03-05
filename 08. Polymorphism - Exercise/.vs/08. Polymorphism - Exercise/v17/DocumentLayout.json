@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\02. Vehicles Extension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\02. Vehicles Extension.csproj|solutionrelative:02. vehicles extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|solutionrelative:02. vehicles extension\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|solutionrelative:02. vehicles extension\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\rouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\rouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|solutionrelative:02. vehicles extension\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|solutionrelative:02. vehicles extension\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\02. vehicles extension\\vehiclesextension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{63DB7131-D9F9-4A10-9390-B282DE61C8C5}|02. Vehicles Extension\\VehiclesExtension.csproj|solutionrelative:02. vehicles extension\\vehiclesextension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\01. Vehicles.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\01. vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\01. Vehicles.csproj|solutionrelative:01. vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\01. vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|solutionrelative:01. vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\01. vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|solutionrelative:01. vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\01. vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|solutionrelative:01. vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\01. vehicles\\vehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{069DB450-342C-4A4F-9412-6E9FD09DB00D}|01. Vehicles\\Vehicles.csproj|solutionrelative:01. vehicles\\vehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,136 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bus.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Bus.cs",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\Models\\Bus.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Bus.cs",
-              "RelativeToolTip": "02. Vehicles Extension\\Models\\Bus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:18:04.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "VehiclesExtension",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\VehiclesExtension.csproj",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\VehiclesExtension.csproj",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\VehiclesExtension.csproj",
-              "RelativeToolTip": "02. Vehicles Extension\\VehiclesExtension.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T17:16:58.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\Models\\Car.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Car.cs",
-              "RelativeToolTip": "02. Vehicles Extension\\Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Warrior.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\Models\\Warrior.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Warrior.cs",
+              "RelativeToolTip": "03. Raiding\\Models\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:16:52.223Z",
+              "WhenOpened": "2024-03-05T18:47:47.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Truck.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Truck.cs",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\Models\\Truck.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Truck.cs",
-              "RelativeToolTip": "02. Vehicles Extension\\Models\\Truck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Title": "Rouge.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Rouge.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\Models\\Rouge.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Rouge.cs",
+              "RelativeToolTip": "03. Raiding\\Models\\Rouge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:16:48.175Z",
+              "WhenOpened": "2024-03-05T18:47:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Paladin.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\Models\\Paladin.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Paladin.cs",
+              "RelativeToolTip": "03. Raiding\\Models\\Paladin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:46:11.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Druid.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Druid.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\Models\\Druid.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Druid.cs",
+              "RelativeToolTip": "03. Raiding\\Models\\Druid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:44:08.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\Models\\Vehicle.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Models\\Vehicle.cs",
-              "RelativeToolTip": "02. Vehicles Extension\\Models\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABLAAAA",
+              "Title": "BaseHero.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\BaseHero.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\Models\\BaseHero.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\BaseHero.cs",
+              "RelativeToolTip": "03. Raiding\\Models\\BaseHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:16:42.826Z",
+              "WhenOpened": "2024-03-05T18:40:30.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Program.cs",
-              "RelativeDocumentMoniker": "02. Vehicles Extension\\Program.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\02. Vehicles Extension\\Program.cs",
-              "RelativeToolTip": "02. Vehicles Extension\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:15:28.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "01. Vehicles\\Models\\Vehicle.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Vehicle.cs",
-              "RelativeToolTip": "01. Vehicles\\Models\\Vehicle.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:08:34.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Truck.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Truck.cs",
-              "RelativeDocumentMoniker": "01. Vehicles\\Models\\Truck.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Truck.cs",
-              "RelativeToolTip": "01. Vehicles\\Models\\Truck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:08:05.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Car.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "01. Vehicles\\Models\\Car.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Models\\Car.cs",
-              "RelativeToolTip": "01. Vehicles\\Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:07:31.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Vehicles",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Vehicles.csproj",
-              "RelativeDocumentMoniker": "01. Vehicles\\Vehicles.csproj",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Vehicles.csproj",
-              "RelativeToolTip": "01. Vehicles\\Vehicles.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "Raiding",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Raiding.csproj",
+              "RelativeDocumentMoniker": "03. Raiding\\Raiding.csproj",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Raiding.csproj",
+              "RelativeToolTip": "03. Raiding\\Raiding.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T17:06:50.788Z",
+              "WhenOpened": "2024-03-05T18:36:34.869Z",
               "EditorCaption": ""
             },
             {
@@ -196,15 +128,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Program.cs",
-              "RelativeDocumentMoniker": "01. Vehicles\\Program.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\01. Vehicles\\Program.cs",
-              "RelativeToolTip": "01. Vehicles\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAlAAAA",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Raiding\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\StartUp.cs",
+              "RelativeToolTip": "03. Raiding\\StartUp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T14:49:50.645Z",
+              "WhenOpened": "2024-03-05T18:36:11.097Z",
               "EditorCaption": ""
             }
           ]
