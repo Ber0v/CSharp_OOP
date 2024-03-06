@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Raiding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a1dc956f943c088fbad6388587348443439805")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2688b6c1d0f60444fd64a34b971844971105587c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Raiding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Raiding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

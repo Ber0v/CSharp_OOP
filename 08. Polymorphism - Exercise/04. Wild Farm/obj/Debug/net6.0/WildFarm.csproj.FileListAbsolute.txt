@@ -1,0 +1,15 @@
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\bin\Debug\net6.0\WildFarm.exe
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\bin\Debug\net6.0\WildFarm.deps.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\bin\Debug\net6.0\WildFarm.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\bin\Debug\net6.0\WildFarm.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.sourcelink.json
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\refint\WildFarm.dll
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.pdb
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+P:\CSharp_OOP\08. Polymorphism - Exercise\04. Wild Farm\obj\Debug\net6.0\ref\WildFarm.dll

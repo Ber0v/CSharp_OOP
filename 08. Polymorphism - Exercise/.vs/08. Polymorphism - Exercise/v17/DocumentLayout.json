@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\rouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\rouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\03. raiding\\raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{502BF3FC-D449-4D34-B548-C203522EFEF7}|03. Raiding\\Raiding.csproj|solutionrelative:03. raiding\\raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7B34DCB9-1332-4FDF-ACC0-87EEF0766DCC}|04. Wild Farm\\WildFarm.csproj|p:\\csharp_oop\\08. polymorphism - exercise\\04. wild farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B34DCB9-1332-4FDF-ACC0-87EEF0766DCC}|04. Wild Farm\\WildFarm.csproj|solutionrelative:04. wild farm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,86 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Warrior.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\Models\\Warrior.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Warrior.cs",
-              "RelativeToolTip": "03. Raiding\\Models\\Warrior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:47:47.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rouge.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Rouge.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\Models\\Rouge.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Rouge.cs",
-              "RelativeToolTip": "03. Raiding\\Models\\Rouge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:47:02.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Paladin.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Paladin.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\Models\\Paladin.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Paladin.cs",
-              "RelativeToolTip": "03. Raiding\\Models\\Paladin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:46:11.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Druid.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Druid.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\Models\\Druid.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\Druid.cs",
-              "RelativeToolTip": "03. Raiding\\Models\\Druid.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:44:08.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseHero.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\BaseHero.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\Models\\BaseHero.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Models\\BaseHero.cs",
-              "RelativeToolTip": "03. Raiding\\Models\\BaseHero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:40:30.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Raiding",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Raiding.csproj",
-              "RelativeDocumentMoniker": "03. Raiding\\Raiding.csproj",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\Raiding.csproj",
-              "RelativeToolTip": "03. Raiding\\Raiding.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T18:36:34.869Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
@@ -130,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\StartUp.cs",
-              "RelativeDocumentMoniker": "03. Raiding\\StartUp.cs",
-              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\03. Raiding\\StartUp.cs",
-              "RelativeToolTip": "03. Raiding\\StartUp.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "DocumentMoniker": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\04. Wild Farm\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Wild Farm\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_OOP\\08. Polymorphism - Exercise\\04. Wild Farm\\StartUp.cs",
+              "RelativeToolTip": "04. Wild Farm\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:36:11.097Z",
+              "WhenOpened": "2024-03-06T14:39:22.638Z",
               "EditorCaption": ""
             }
           ]
