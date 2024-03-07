@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_OOP\\09. Exceptions and Error Handling - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D43A-7D66-4C30-ADF3-F22DA3A61185}|06. Money Transactions\\06. Money Transactions.csproj|p:\\csharp_oop\\09. exceptions and error handling - lab\\06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D43A-7D66-4C30-ADF3-F22DA3A61185}|06. Money Transactions\\06. Money Transactions.csproj|solutionrelative:06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BF0934-A6AD-44B1-8457-3AB5BD20A623}|05. Play Catch\\05. Play Catch.csproj|p:\\csharp_oop\\09. exceptions and error handling - lab\\05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BF0934-A6AD-44B1-8457-3AB5BD20A623}|05. Play Catch\\05. Play Catch.csproj|solutionrelative:05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\09. Exceptions and Error Handling - Lab\\06. Money Transactions\\Program.cs",
+              "RelativeDocumentMoniker": "06. Money Transactions\\Program.cs",
+              "ToolTip": "P:\\CSharp_OOP\\09. Exceptions and Error Handling - Lab\\06. Money Transactions\\Program.cs",
+              "RelativeToolTip": "06. Money Transactions\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:37:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_OOP\\09. Exceptions and Error Handling - Lab\\05. Play Catch\\Program.cs",
+              "RelativeDocumentMoniker": "05. Play Catch\\Program.cs",
+              "ToolTip": "P:\\CSharp_OOP\\09. Exceptions and Error Handling - Lab\\05. Play Catch\\Program.cs",
+              "RelativeToolTip": "05. Play Catch\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:26:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
