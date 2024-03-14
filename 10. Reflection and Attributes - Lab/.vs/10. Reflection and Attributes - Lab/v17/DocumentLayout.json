@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\Stealer.csproj|solutionrelative:03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\06. code tracker\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|solutionrelative:06. code tracker\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\Stealer.csproj|solutionrelative:03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\06. code tracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|solutionrelative:06. code tracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\02. high quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\Stealer.csproj|solutionrelative:02. high quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\05. create attribute\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\AuthorProblem.csproj|solutionrelative:05. create attribute\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\01. Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\01. Stealer.csproj|solutionrelative:01. stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\06. code tracker\\authorproblem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4A56D7-824D-4502-B0D9-5EE556D15584}|06. Code Tracker\\AuthorProblem.csproj|solutionrelative:06. code tracker\\authorproblem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\02. high quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\Stealer.csproj|solutionrelative:02. high quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\05. create attribute\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\AuthorProblem.csproj|solutionrelative:05. create attribute\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\5,AuthorProblem.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\05. create attribute\\5,authorproblem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17E206FC-3ECA-44D5-907A-EBE090478955}|05. Create Attribute\\5,AuthorProblem.csproj|solutionrelative:05. create attribute\\5,authorproblem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\04. Collector.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\04. collector\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\04. Collector.csproj|solutionrelative:04. collector\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\04. collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\Stealer.csproj|solutionrelative:04. collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\3.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\3.Stealer.csproj|solutionrelative:03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\4.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\04. collector\\4.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{263F30B5-6469-4EA1-881D-5CE58C276AA6}|04. Collector\\4.Stealer.csproj|solutionrelative:04. collector\\4.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\3.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\03. mission private impossible\\3.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,16 +51,32 @@
       "RelativeMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\2.Stealer.csproj|solutionrelative:02. high quality mistakes\\2.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\Stealer.csproj|solutionrelative:01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\Stealer.csproj|solutionrelative:01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\1.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|solutionrelative:01. stealer\\1.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\3.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69E6094-60A1-4665-8B4D-2741AC5E5567}|03. Mission Private Impossible\\3.Stealer.csproj|solutionrelative:03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\2.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\02. high quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\2.Stealer.csproj|solutionrelative:02. high quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\2.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\02. high quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150AA844-D4AF-45C6-A5B5-B15C291E7180}|02. High Quality Mistakes\\2.Stealer.csproj|solutionrelative:02. high quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|solutionrelative:01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|solutionrelative:01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|p:\\modules\\csharp_oop\\10. reflection and attributes - lab\\01. stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1023503-A989-4A84-AF3A-DCC86BC9197D}|01. Stealer\\1.Stealer.csproj|solutionrelative:01. stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,118 +91,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Spy.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\Spy.cs",
-              "RelativeDocumentMoniker": "03. Mission Private Impossible\\Spy.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\Spy.cs",
-              "RelativeToolTip": "03. Mission Private Impossible\\Spy.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\Tracker.cs",
+              "RelativeDocumentMoniker": "06. Code Tracker\\Tracker.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\Tracker.cs",
+              "RelativeToolTip": "06. Code Tracker\\Tracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:20:32.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "3.Stealer.csproj",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\3.Stealer.csproj",
-              "RelativeDocumentMoniker": "03. Mission Private Impossible\\3.Stealer.csproj",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\3.Stealer.csproj",
-              "RelativeToolTip": "03. Mission Private Impossible\\3.Stealer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-13T16:19:08.227Z",
+              "WhenOpened": "2024-03-14T15:18:55.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\StartUp.cs",
-              "RelativeDocumentMoniker": "03. Mission Private Impossible\\StartUp.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\StartUp.cs",
-              "RelativeToolTip": "03. Mission Private Impossible\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\StartUp.cs",
+              "RelativeDocumentMoniker": "06. Code Tracker\\StartUp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\StartUp.cs",
+              "RelativeToolTip": "06. Code Tracker\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:18:43.454Z",
+              "WhenOpened": "2024-03-14T15:18:17.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Spy.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\Spy.cs",
-              "RelativeDocumentMoniker": "02. High Quality Mistakes\\Spy.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\Spy.cs",
-              "RelativeToolTip": "02. High Quality Mistakes\\Spy.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:03:36.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\StartUp.cs",
-              "RelativeDocumentMoniker": "02. High Quality Mistakes\\StartUp.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\StartUp.cs",
-              "RelativeToolTip": "02. High Quality Mistakes\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:03:24.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "2.Stealer.csproj",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\2.Stealer.csproj",
-              "RelativeDocumentMoniker": "02. High Quality Mistakes\\2.Stealer.csproj",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\2.Stealer.csproj",
-              "RelativeToolTip": "02. High Quality Mistakes\\2.Stealer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuthorProblem",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\AuthorProblem.csproj",
+              "RelativeDocumentMoniker": "06. Code Tracker\\AuthorProblem.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\06. Code Tracker\\AuthorProblem.csproj",
+              "RelativeToolTip": "06. Code Tracker\\AuthorProblem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-13T16:01:07.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Spy.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Spy.cs",
-              "RelativeDocumentMoniker": "01. Stealer\\Spy.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Spy.cs",
-              "RelativeToolTip": "01. Stealer\\Spy.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T15:35:47.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Hacker.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Hacker.cs",
-              "RelativeDocumentMoniker": "01. Stealer\\Hacker.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Hacker.cs",
-              "RelativeToolTip": "01. Stealer\\Hacker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T15:18:58.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "1.Stealer.csproj",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\1.Stealer.csproj",
-              "RelativeDocumentMoniker": "01. Stealer\\1.Stealer.csproj",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\1.Stealer.csproj",
-              "RelativeToolTip": "01. Stealer\\1.Stealer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-13T15:18:35.959Z",
+              "WhenOpened": "2024-03-14T15:17:49.461Z",
               "EditorCaption": ""
             },
             {
@@ -179,7 +137,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "05. Create Attribute\\AuthorAttribute.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\AuthorAttribute.cs",
+              "RelativeToolTip": "05. Create Attribute\\AuthorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:10:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5,AuthorProblem.csproj",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\5,AuthorProblem.csproj",
+              "RelativeDocumentMoniker": "05. Create Attribute\\5,AuthorProblem.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\5,AuthorProblem.csproj",
+              "RelativeToolTip": "05. Create Attribute\\5,AuthorProblem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T15:09:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\StartUp.cs",
+              "RelativeDocumentMoniker": "05. Create Attribute\\StartUp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\05. Create Attribute\\StartUp.cs",
+              "RelativeToolTip": "05. Create Attribute\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:09:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\Spy.cs",
+              "RelativeDocumentMoniker": "04. Collector\\Spy.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\Spy.cs",
+              "RelativeToolTip": "04. Collector\\Spy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:07:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "4.Stealer.csproj",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\4.Stealer.csproj",
+              "RelativeDocumentMoniker": "04. Collector\\4.Stealer.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\4.Stealer.csproj",
+              "RelativeToolTip": "04. Collector\\4.Stealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T15:07:09.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Collector\\StartUp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\04. Collector\\StartUp.cs",
+              "RelativeToolTip": "04. Collector\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:05:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\Spy.cs",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\Spy.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\Spy.cs",
+              "RelativeToolTip": "03. Mission Private Impossible\\Spy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:20:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "3.Stealer.csproj",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\3.Stealer.csproj",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\3.Stealer.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\3.Stealer.csproj",
+              "RelativeToolTip": "03. Mission Private Impossible\\3.Stealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T16:19:08.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\StartUp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\03. Mission Private Impossible\\StartUp.cs",
+              "RelativeToolTip": "03. Mission Private Impossible\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:18:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\Spy.cs",
+              "RelativeDocumentMoniker": "02. High Quality Mistakes\\Spy.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\Spy.cs",
+              "RelativeToolTip": "02. High Quality Mistakes\\Spy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:03:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\StartUp.cs",
+              "RelativeDocumentMoniker": "02. High Quality Mistakes\\StartUp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\StartUp.cs",
+              "RelativeToolTip": "02. High Quality Mistakes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:03:24.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2.Stealer.csproj",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\2.Stealer.csproj",
+              "RelativeDocumentMoniker": "02. High Quality Mistakes\\2.Stealer.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\02. High Quality Mistakes\\2.Stealer.csproj",
+              "RelativeToolTip": "02. High Quality Mistakes\\2.Stealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T16:01:07.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "01. Stealer\\Spy.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Spy.cs",
+              "RelativeToolTip": "01. Stealer\\Spy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:35:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "01. Stealer\\Hacker.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\Hacker.cs",
+              "RelativeToolTip": "01. Stealer\\Hacker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:18:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1.Stealer.csproj",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\1.Stealer.csproj",
+              "RelativeDocumentMoniker": "01. Stealer\\1.Stealer.csproj",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\1.Stealer.csproj",
+              "RelativeToolTip": "01. Stealer\\1.Stealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T15:18:35.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "StartUp.cs",
               "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\10. Reflection and Attributes - Lab\\01. Stealer\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Stealer\\StartUp.cs",

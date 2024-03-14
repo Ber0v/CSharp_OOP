@@ -1,0 +1,15 @@
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\AuthorProblem.exe
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\AuthorProblem.deps.json
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\AuthorProblem.dll
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\AuthorProblem.pdb
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.sourcelink.json
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.dll
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\refint\AuthorProblem.dll
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.pdb
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+P:\Modules\CSharp_OOP\10. Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\ref\AuthorProblem.dll

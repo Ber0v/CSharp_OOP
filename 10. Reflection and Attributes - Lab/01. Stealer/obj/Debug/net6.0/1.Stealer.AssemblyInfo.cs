@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.Stealer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f086a987e3ea14b1bbdeb603b0be5570f1179c27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf505b4ac7601e0f4a2d717693702fe124e82bbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.Stealer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.Stealer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
