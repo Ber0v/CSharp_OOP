@@ -1,0 +1,15 @@
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\bin\Debug\net6.0\CommandPattern.exe
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\bin\Debug\net6.0\CommandPattern.deps.json
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\bin\Debug\net6.0\CommandPattern.dll
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\bin\Debug\net6.0\CommandPattern.pdb
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.sourcelink.json
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.dll
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\refint\CommandPattern.dll
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.pdb
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+P:\Modules\CSharp_OOP\11. Reflection and Attributes - Exercise\01. Command Pattern\obj\Debug\net6.0\ref\CommandPattern.dll
