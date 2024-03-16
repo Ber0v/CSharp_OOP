@@ -1,0 +1,15 @@
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.exe
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.dll
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.sourcelink.json
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.dll
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+P:\Modules\CSharp_OOP\12. Unit Testing - Lab\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
