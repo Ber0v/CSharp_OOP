@@ -1,0 +1,12 @@
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.deps.json
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.dll
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.pdb
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.sourcelink.json
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.dll
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\refint\Database.dll
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.pdb
+P:\Modules\CSharp_OOP\13. Unit Testing - Exercises\Database\obj\Debug\net6.0\ref\Database.dll
