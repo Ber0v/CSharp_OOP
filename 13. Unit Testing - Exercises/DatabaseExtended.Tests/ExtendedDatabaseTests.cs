@@ -9,229 +9,149 @@ namespace DatabaseExtended.Tests
     [TestFixture]
     public class ExtendedDatabaseTests
     {
-        private Database database;
-
-        private Person[] testPeople;
+        private Database _database;
 
         [SetUp]
         public void Setup()
         {
-            database = new Database();
-
-            testPeople = new Person[35];
-
-            for (int i = 0; i < testPeople.Length; i++)
-                testPeople[i] = new Person(i, ((char)i).ToString());
+            _database = new Database();
         }
 
-        [TestCase(0)]
-        [TestCase(5)]
-        [TestCase(16)]
-        public void Test_ConstructorShouldSetExactValuesProperly(int peopleCount)
+        [TearDown]
+        public void TearDown()
         {
-            Person[] peopleParams = new Person[peopleCount];
-
-            for (int i = 0; i < peopleCount; i++)
-                peopleParams[i] = testPeople[i];
-
-            if (peopleCount != 0)
-                database = new Database(peopleParams);
-
-            int databaseExpectedCount = peopleCount;
-            int databaseActualCount = database.Count;
-
-            Assert.AreEqual(databaseExpectedCount, databaseActualCount,
-                "Database constructor should set values properly!");
-        }
-
-        [TestCase(17)]
-        [TestCase(35)]
-        public void Test_ConstructorShouldThrowExceptionWhenPassingMoreThan16ParametersAsArgument(int peopleCount)
-        {
-            Person[] peopleParams = new Person[peopleCount];
-
-            for (int i = 0; i < peopleCount; i++)
-                peopleParams[i] = testPeople[i];
-
-            Assert.Throws<ArgumentException>(() => database = new Database(peopleParams),
-                "Database constructor should throw an ArgumentException when passing more than 16 parameters (or an array with a length over 16)!");
+            _database = null;
         }
 
         [Test]
-        public void Test_PropertyCountShouldIncreaseWhenAddingANewPerson()
+        public void AddMethodTest()
         {
-            database.Add(new Person(1, "username"));
+            _database.Add(new Person(1, "Ivo"));
+            Person result = _database.FindById(1);
 
-            int databaseExpectedCount = 1;
-            int databaseActualCount = database.Count;
-
-            Assert.AreEqual(databaseExpectedCount, databaseActualCount,
-                "Property \"Count\" should increase its value when adding a new person!");
+            Assert.IsTrue(1 == _database.Count);
+            Assert.AreEqual(1, result.Id);
+            Assert.AreEqual("Ivo", result.UserName);
         }
 
         [Test]
-        public void Test_PropertyCountShouldDecreaseWhenRemovingAPerson()
+        public void ShouldThrowIfMoreThanMaximumLength()
         {
-            database = new Database(new Person(1, "username"));
+            Person[] people = CreateFullArray();
+            _database = new Database(people);
 
-            database.Remove();
-
-            int databaseExpectedCount = 0;
-            int databaseActualCount = database.Count;
-
-            Assert.AreEqual(databaseExpectedCount, databaseActualCount,
-                "Property \"Count\" should decrease its value when removing a person!");
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.Add(new Person(17, "Pesho")));
+            Assert.That(exception.Message, Is.EqualTo("Array's capacity must be exactly 16 integers!"));
         }
 
         [Test]
-        public void Test_MethodAddShouldAddPersonToDatabase()
+        public void AddShouldThrowIfNotUniqueUsername()
         {
-            Person expectedPerson = new Person(1, "username");
+            _database.Add(new Person(1, "Gosho"));
 
-            database = new Database(expectedPerson);
-
-            Person actualPerson = database.FindById(1);
-
-            Assert.AreEqual(expectedPerson, actualPerson,
-                "Method \"Add\" should add the given person to the database!");
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.Add(new Person(17, "Gosho")));
+            Assert.That(exception.Message, Is.EqualTo("There is already user with this username!"));
         }
 
         [Test]
-        public void Test_MethodAddShouldThrowExceptionWhenTryingToAddA17thPerson()
+        public void AddShouldThrowIfNotUniqueId()
         {
-            Person[] peopleParams = new Person[16];
+            _database.Add(new Person(1, "Gosho"));
 
-            for (int i = 0; i < 16; i++)
-                peopleParams[i] = testPeople[i];
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.Add(new Person(1, "Peter")));
+            Assert.That(exception.Message, Is.EqualTo("There is already user with this Id!"));
+        }
 
-            database = new Database(peopleParams);
+        private Person[] CreateFullArray()
+        {
+            Person[] persons = new Person[16];
 
-            Assert.Throws<InvalidOperationException>(() => database.Add(new Person(1, "username")),
-                "Method \"Add\" should throw InvalidOperationException when trying to add a 17th person!");
+            for (int i = 0; i < persons.Length; i++)
+            {
+                persons[i] = new Person(i, i.ToString());
+            }
+            return persons;
         }
 
         [Test]
-        public void Test_MethodAddShouldThrowExceptionWhenTryingToAddAPersonWithTheSameNameAsAnExistingPerson()
+        public void CreateDatabaseWithTwoElements()
         {
-            database = new Database(new Person(1, "username"));
+            _database = new Database(new Person(1, "Pesho"), new Person(2, "Gosho"));
+            Person first = _database.FindById(1);
+            Person second = _database.FindById(2);
 
-            Assert.Throws<InvalidOperationException>(() => database.Add(new Person(2, "username")),
-                "Method \"Add\" should throw InvalidOperationException exception when trying to add a person with the same username as another person already in the database!");
+            Assert.AreEqual(2, _database.Count);
+            Assert.AreEqual("Pesho", first.UserName);
+            Assert.AreEqual("Gosho", second.UserName);
         }
 
         [Test]
-        public void Test_MethodAddShouldThrowExceptionWhenTryingToAddAPersonWithTheSameIDAsAnExistingPerson()
+        public void RemoveFromEmptyDatabaseShouldThrow()
         {
-            database = new Database(new Person(1, "username"));
-
-            Assert.Throws<InvalidOperationException>(() => database.Add(new Person(1, "different username")),
-                "Method \"Add\" should throw InvalidOperationException exception when trying to add a person with the same Id as another person already in the database!");
+            Assert.Throws<InvalidOperationException>(() => _database.Remove());
         }
 
         [Test]
-        public void Test_MethodRemoveShouldRemoveLastPersonFromDatabase()
+        public void RemoveFromDatabase()
         {
-            database = new Database(new Person(1, "username"));
+            _database = new Database(new Person(1, "Pesho"), new Person(2, "Gosho"));
+            _database.Remove();
+            Person first = _database.FindById(1);
 
-            database.Remove();
-
-            Assert.Throws<InvalidOperationException>(() => database.FindById(1));
+            Assert.AreEqual(1, _database.Count);
+            Assert.AreEqual("Pesho", first.UserName);
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.FindByUsername("Gosho"));
+            Assert.That(exception.Message, Is.EqualTo("No user is present by this username!"));
         }
 
         [Test]
-        public void Test_MethodRemoveShouldThrowExceptionWhenTryingToRemoveAPersonFromEmptyDatabase()
+        public void FindByUserNameShouldThrowEmptyOrNullUsernameException()
         {
-            Assert.Throws<InvalidOperationException>(() => database.Remove(),
-                "Method \"Remove\" should throw InvalidOperationException when trying to remove a person from an empty Database!");
+            ArgumentNullException exception = Assert
+                .Throws<ArgumentNullException>(() => _database.FindByUsername(null));
+            Assert.That(exception.ParamName, Is.EqualTo("Username parameter is null!"));
+
+            ArgumentNullException emptyEx = Assert
+                .Throws<ArgumentNullException>(() => _database.FindByUsername(string.Empty));
+            Assert.That(emptyEx.ParamName, Is.EqualTo("Username parameter is null!"));
         }
 
         [Test]
-        public void Test_MethodFindByUsernameShouldReturnPersonWithGivenUsername()
+        public void FindByUserNameShouldThrowIfUserNameDoesNotExist()
         {
-            database = new Database(new Person(1, "username"));
-
-            string expectedPersonUsername = "username";
-
-            Person retrievedPerson = database.FindByUsername("username");
-
-            string retrievedPersonUsername = retrievedPerson.UserName;
-
-            Assert.AreEqual(expectedPersonUsername, retrievedPerson.UserName,
-                "Method \"FindByUsername\" should return the person with the given username!");
-        }
-
-        [TestCase("")]
-        [TestCase(null)]
-        public void Test_MethodFindByUsernameShouldThrowExceptionWhenPassingAnEmptyOrNullUsernameAsArgument(string username)
-        {
-            database = new Database(new Person(1, "username"));
-
-            Assert.Throws<ArgumentNullException>(() => database.FindByUsername(username),
-                "Method \"FindByUsername\" should throw ArgumentNullException when passing empty or null username as argument!");
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.FindByUsername("Ivan"));
+            Assert.That(exception.Message, Is.EqualTo("No user is present by this username!"));
         }
 
         [Test]
-        public void MethodFindByUsernameShouldThrowExceptionWhenPassingUsernameOfNonExistantPersonAsArgument()
+        public void FindByUserNameReturnsCorrectUser()
         {
-            Assert.Throws<InvalidOperationException>(() => database.FindByUsername("username"),
-                "Method \"FindByUsername\" should throw InvalidOperationException when passing username of non-existant person as argument!");
+            _database = new Database(new Person(1, "Pesho"), new Person(2, "Gosho"));
+            Person person = _database.FindByUsername("Gosho");
+
+            Assert.AreEqual("Gosho", person.UserName);
+            Assert.AreEqual(2, person.Id);
         }
 
         [Test]
-        public void MethodFindByIdShouldReturnPersonWithGivenId()
+        public void FindByIdShouldThrowNegativeIdException()
         {
-            database = new Database(new Person(1, "username"));
-
-            long expectedPersonId = 1;
-
-            Person retrievedPerson = database.FindById(1);
-
-            long actualPersonId = 1;
-
-            Assert.AreEqual(expectedPersonId, actualPersonId,
-                "Method \"FindById\" should return the person with the given id!");
-        }
-
-        [TestCase(-1)]
-        [TestCase(-50)]
-        public void MethodFindByIdShouldThrowExceptionWhenPassingANegativeIdAsArgument(long id)
-        {
-            Assert.Throws<ArgumentOutOfRangeException>(() => database.FindById(id),
-                "Method \"FindById\" should throw ArgumentOutOfRangeException when passing a negative Id as argument!");
+            ArgumentOutOfRangeException zeroException = Assert
+                .Throws<ArgumentOutOfRangeException>(() => _database.FindById(-1));
+            Assert.That(zeroException.ParamName, Is.EqualTo("Id should be a positive number!"));
         }
 
         [Test]
-        public void MethodFindByIdShouldThrowExceptionWhenPassingIdOfNonExistantPerson()
+        public void FindByIdShouldThrowIfIdDoesNotExist()
         {
-            Assert.Throws<InvalidOperationException>(() => database.FindById(1),
-                "Method \"FindById\" should throw InvalidOperationException when passing Id of a non-existant person!");
-        }
-
-        [TestCase(0)]
-        [TestCase(1)]
-        [TestCase(200)]
-        public void Test_ConstructorShouldSetIdProperly(long id)
-        {
-            Person person = new Person(id, "username");
-
-            long expectedId = id;
-            long actualId = person.Id;
-
-            Assert.AreEqual(expectedId, actualId,
-                "Constructor should set the given Id properly!");
-        }
-
-        [TestCase("n")]
-        [TestCase("username")]
-        public void Test_ConstructorShouldSetNameProperly(string username)
-        {
-            Person person = new Person(1, username);
-
-            string expectedUsername = username;
-            string actualUsername = person.UserName;
-
-            Assert.AreEqual(expectedUsername, actualUsername,
-                "Constructor should set the given name properly!");
+            InvalidOperationException exception = Assert
+                .Throws<InvalidOperationException>(() => _database.FindById(1488));
+            Assert.That(exception.Message, Is.EqualTo("No user is present by this ID!"));
         }
     }
 }
