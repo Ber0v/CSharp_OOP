@@ -6,125 +6,178 @@ namespace FightingArena.Tests
     [TestFixture]
     public class WarriorTests
     {
-        private const int MIN_ATTACK_HP = 30;
+        private static Warrior warrior;
 
         [SetUp]
         public void Setup()
         {
+            warrior = new Warrior("name", 1, 1);
         }
 
-        [Test]
-        [TestCase("Ivan", 100, 10)]
-        [TestCase("Goro", 200, 4)]
-        public void CheckWarriorConstuctor(string name, int damage, int hp)
+        [TestCase("n")]
+        [TestCase("name")]
+        public void Test_ConstructorShouldSetNameProperly(string name)
         {
-            var warrior = new Warrior(name, damage, hp);
+            string expectedName = name;
 
-            Assert.AreEqual(warrior.Name, name);
-            Assert.AreEqual(warrior.Damage, damage);
-            Assert.AreEqual(warrior.HP, hp);
+            warrior = new Warrior(name, 1, 1);
+
+            string actualName = warrior.Name;
+
+            Assert.AreEqual(expectedName, actualName,
+                "Warrior constructor should set name properly!");
         }
 
-        [Test]
-        [TestCase("", 100, 10)]
-        [TestCase(null, 200, 4)]
-        [TestCase("   ", 200, 4)]
-        public void NameSetterShouldThrowExceptionWithNullOrEmptyInput(string name, int damage, int hp)
+        [TestCase(null)]
+        [TestCase("")]
+        [TestCase(" ")]
+        public void Test_ConstructorShouldThrowExceptionWhenPassingNullEmptyOrWhitespaceNameAsArgument(string name)
         {
-            Assert.Throws<ArgumentException>(
-                () => new Warrior(name, damage, hp))
-                .Message.Equals("Name should not be empty or whitespace!");
+            Assert.Throws<ArgumentException>(() => warrior = new Warrior(name, 1, 1),
+                "Warrior constructor should throw ArgumentException when passing empty, null or whitespace as argument");
         }
 
-        [Test]
-        [TestCase("Ivan", 0, 10)]
-        [TestCase("Goro", -20, 4)]
-        public void DamageSetterShouldThrowExceptionWithZeroOrNegativeInput(string name, int damage, int hp)
+        [TestCase(1)]
+        [TestCase(50)]
+        public void Test_ConstructorShouldSetDamageProperly(int damage)
         {
-            Assert.Throws<ArgumentException>(
-                () => new Warrior(name, damage, hp))
-                .Message.Equals("Damage value should be positive!");
+            int expectedDamage = damage;
+
+            warrior = new Warrior("name", damage, 1);
+
+            int actualDamage = warrior.Damage;
+
+            Assert.AreEqual(expectedDamage, actualDamage,
+                "Warrior constructor should set damage properly!");
         }
 
-        [Test]
-        [TestCase("Ivan", 100, -10)]
-        [TestCase("Goro", 200, -4)]
-        public void HpSetterShouldThrowExceptionWithNegativeInput(string name, int damage, int hp)
+        [TestCase(0)]
+        [TestCase(-1)]
+        [TestCase(-50)]
+        public void Test_ConstructorShouldThrowExceptionWhenPassingZeroOrNegativeDamageAsArgument(int damage)
         {
-            Assert.Throws<ArgumentException>(
-                () => new Warrior(name, damage, hp))
-                .Message.Equals("HP should not be negative!");
+            Assert.Throws<ArgumentException>(() => warrior = new Warrior("name", damage, 1),
+                "Warrior constructor should throw ArgumentException when passing zero or a negative number as argument!");
         }
 
-        [Test]
-        [TestCase("Ivan", 100, 20)]
-        [TestCase("Goro", 200, 10)]
-        public void AttackMethodShouldThrowExceptionIfAttackerHPIsLessThanMinimum(string name, int damage, int hp)
+        [TestCase(0)]
+        [TestCase(1)]
+        [TestCase(50)]
+        public void Test_ConstructorShouldSetHPProperly(int hp)
         {
-            var warriorToAttack = new Warrior("Dummy", 100, 40);
+            int expectedHp = hp;
 
-            Assert.Throws<InvalidOperationException>(
-                () => new Warrior(name, damage, hp).Attack(warriorToAttack))
-                .Message.Equals("Your HP is too low in order to attack other warriors!");
+            warrior = new Warrior("name", 1, hp);
+
+            int actualHp = warrior.HP;
+
+            Assert.AreEqual(expectedHp, actualHp,
+                "Warrior constructor should set HP properly!");
         }
 
-        [Test]
-        [TestCase("Ivan", 100, 20)]
-        [TestCase("Goro", 200, 10)]
-        public void AttackMethodShouldThrowExceptionIfAttackedHPIsLessThanMinimum(string name, int damage, int hp)
+        [TestCase(-1)]
+        [TestCase(-50)]
+        public void Test_ConstructorShouldThrowExceptionWhenPassingNegativeHPAsArgument(int hp)
         {
-            var attackingWarrior = new Warrior("Dummy", 100, 40);
-            var warriorToAttack = new Warrior(name, damage, hp);
-
-            Assert.Throws<InvalidOperationException>(
-                () => attackingWarrior.Attack(warriorToAttack))
-                .Message.Equals($"Enemy HP must be greater than {MIN_ATTACK_HP} in order to attack him!");
+            Assert.Throws<ArgumentException>(() => warrior = new Warrior("name", 1, hp),
+                "Warrior constructor should throw ArgumentException when passing negative HP as argument!");
         }
 
-        [Test]
-        [TestCase("Ivan", 100, 20)]
-        [TestCase("Goro", 200, 10)]
-        public void AttackMethodShouldThrowExceptionIfAttackerHpIsLessThanAttackedHP(string name, int damage, int hp)
+        [TestCase(1)]
+        [TestCase(50)]
+        [TestCase(99)]
+        [TestCase(100)]
+        public void Test_MethodAttackShouldLowerCurrentWarriorHPWithGivenWarriorDamage(int warriorDamage)
         {
-            var attackingWarrior = new Warrior(name, damage, hp);
-            var warriorToAttack = new Warrior("Dummy", 100, 40);
+            warrior = new Warrior("name", 10, 100);
 
-            Assert.Throws<InvalidOperationException>(
-                () => attackingWarrior.Attack(warriorToAttack))
-                .Message.Equals("You are trying to attack too strong enemy");
+            Warrior otherWarrior = new Warrior("name", warriorDamage, 100);
+
+            int expectedHP = warrior.HP - warriorDamage;
+
+            warrior.Attack(otherWarrior);
+
+            int actualHP = warrior.HP;
+
+            Assert.AreEqual(expectedHP, actualHP,
+                "Method \"Attack\" should lower HP with the given warrior's damage!");
         }
 
-        [Test]
-        [TestCase("Ivan", 10, 200)]
-        [TestCase("Goro", 20, 100)]
-        public void AttackMethodShouldDecreaseAttackerHP(string name, int damage, int hp)
+        [TestCase(31)]
+        [TestCase(50)]
+        public void Test_MethodAttackShouldSetGivenWarriorHPToZeroWhenCurrentWarriorDamageIsBiggerThanGivenWarriorHP(int warriorHP)
         {
-            var attackingWarrior = new Warrior(name, damage, hp);
-            var warriorToAttack = new Warrior("Dummy", 5, 40);
+            warrior = new Warrior("name", 100, 100);
 
-            attackingWarrior.Attack(warriorToAttack);
+            Warrior otherWarrior = new Warrior("name", 1, warriorHP);
 
-            Assert.That(attackingWarrior.HP, Is.EqualTo(hp - warriorToAttack.Damage));
+            warrior.Attack(otherWarrior);
+
+            int expectedHP = 0;
+            int actualdHP = otherWarrior.HP;
+
+            Assert.AreEqual(expectedHP, actualdHP,
+                "Method \"Attack\" should set given warrior HP to zero when the current warrior's damage is bigger than the given warrior's HP!");
         }
 
-        [Test]
-        [TestCase("Ivan", 10, 40)]
-        [TestCase("Goro", 20, 100)]
-        public void AttackMethodShouldDecreaseAttackedWarriorHP(string name, int damage, int hp)
+        [TestCase(50, 1)]
+        [TestCase(50, 49)]
+        [TestCase(50, 50)]
+        public void Test_MethodAttackShouldLowerGivenWarriorHPByCurrentWarriorDamage(int warriorHP, int warriorDamage)
         {
-            var attackingWarrior = new Warrior("Dummy", 50, 400);
-            var warriorToAttack = new Warrior(name, damage, hp);
+            warrior = new Warrior("name", warriorDamage, 100);
 
-            attackingWarrior.Attack(warriorToAttack);
+            Warrior otherWarrior = new Warrior("name", 1, warriorHP);
 
-            if (attackingWarrior.Damage > warriorToAttack.HP)
-            {
-                Assert.That(warriorToAttack.HP, Is.EqualTo(0));
-            }
-            else
-            {
-                Assert.That(warriorToAttack.HP, Is.EqualTo(hp - attackingWarrior.Damage));
-            }
+            int expectedHP = warriorHP - warrior.Damage;
+
+            warrior.Attack(otherWarrior);
+
+            int actualHP = otherWarrior.HP;
+
+            Assert.AreEqual(expectedHP, actualHP,
+                "Method \"Attack\" should lower the given warrior's HP by the current warrior's damage!");
+        }
+
+        [TestCase(1)]
+        [TestCase(15)]
+        [TestCase(29)]
+        [TestCase(30)]
+        public void Test_MethodAttackShouldThrowExceptionWhenCurrentWarriorHPIsLowerOrEqualToMinimumAttackHP(int warriorHP)
+        {
+            warrior = new Warrior("name", 1, warriorHP);
+
+            Warrior otherWarrior = new Warrior("name", 1, 1);
+
+            Assert.Throws<InvalidOperationException>(() => warrior.Attack(otherWarrior),
+                "Method \"Attack\" should throw InvalidOperationException when the current warrior's HP is lower or equal to the minimum attack HP (30)!");
+        }
+
+        [TestCase(1)]
+        [TestCase(15)]
+        [TestCase(29)]
+        [TestCase(30)]
+        public void Test_MethodAttackShouldThrowExceptionWhenGivenWarriorHPIsLowerOrEqualToMinimumAttackHP(int warriorHP)
+        {
+            warrior = new Warrior("name", 1, 31);
+
+            Warrior otherWarrior = new Warrior("name", 1, warriorHP);
+
+            Assert.Throws<InvalidOperationException>(() => warrior.Attack(otherWarrior),
+                "Method \"Attack\" should throw InvalidOperationException when the given warrior's HP is lower or equal to the minimum attak HP (30)!");
+        }
+
+        [TestCase(31, 50)]
+        [TestCase(40, 50)]
+        [TestCase(49, 50)]
+        public void Test_MethodAttackShouldThrowExceptionWhenCurrentWarriorHPIsLowerThanGivenWarriorDamage(int warriorHP, int warriorDamage)
+        {
+            warrior = new Warrior("name", 1, warriorHP);
+
+            Warrior otherWarrior = new Warrior("name", warriorDamage, warriorHP + 1);
+
+            Assert.Throws<InvalidOperationException>(() => warrior.Attack(otherWarrior),
+                "Method \"Attack\" should throw InvalidOperationException when the current warrior's HP is lower than the given warrior's damage!");
         }
     }
 }

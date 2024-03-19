@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1FB916D-50FB-496B-83F9-BDF2F37EA267}|CarManager.Tests\\CarManager.Tests.csproj|solutionrelative:carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA77E66-6639-40BB-95E7-672D3E22C7DC}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA77E66-6639-40BB-95E7-672D3E22C7DC}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|solutionrelative:databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5795F810-87D3-4FC9-89B3-61985EE6F92B}|Database.Tests\\Database.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5795F810-87D3-4FC9-89B3-61985EE6F92B}|Database.Tests\\Database.Tests.csproj|solutionrelative:database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|p:\\modules\\csharp_oop\\13. unit testing - exercises\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06408E4-1E32-4981-AA8F-C32DF68D2B0E}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WarriorTests.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
-              "RelativeDocumentMoniker": "FightingArena.Tests\\WarriorTests.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
-              "RelativeToolTip": "FightingArena.Tests\\WarriorTests.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAYwBQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T13:48:40.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArenaTests.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
-              "RelativeDocumentMoniker": "FightingArena.Tests\\ArenaTests.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
-              "RelativeToolTip": "FightingArena.Tests\\ArenaTests.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T13:47:30.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarManagerTests.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\CarManager.Tests\\CarManagerTests.cs",
-              "RelativeDocumentMoniker": "CarManager.Tests\\CarManagerTests.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\CarManager.Tests\\CarManagerTests.cs",
-              "RelativeToolTip": "CarManager.Tests\\CarManagerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T13:34:15.409Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
@@ -81,28 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExtendedDatabaseTests.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
-              "RelativeDocumentMoniker": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
-              "RelativeToolTip": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "DocumentIndex": 0,
+              "Title": "WarriorTests.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\WarriorTests.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\WarriorTests.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswLQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T12:34:31.867Z",
+              "WhenOpened": "2024-03-18T13:48:40.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseTests.cs",
-              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\Database.Tests\\DatabaseTests.cs",
-              "RelativeDocumentMoniker": "Database.Tests\\DatabaseTests.cs",
-              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\Database.Tests\\DatabaseTests.cs",
-              "RelativeToolTip": "Database.Tests\\DatabaseTests.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowGYAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ArenaTests.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\ArenaTests.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\13. Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\ArenaTests.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T12:18:08.586Z"
+              "WhenOpened": "2024-03-18T13:47:30.318Z",
+              "EditorCaption": ""
             }
           ]
         }

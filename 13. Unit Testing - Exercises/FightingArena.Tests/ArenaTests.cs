@@ -8,87 +8,99 @@
     [TestFixture]
     public class ArenaTests
     {
-        private List<Warrior> warriorsList = new List<Warrior>
-        {
-            new Warrior("Ivan", 10, 100),
-            new Warrior("Tina", 20, 200),
-            new Warrior("Goro", 15, 150),
-            new Warrior("Lilly", 22, 220)
-        };
-
+        private Arena arena;
 
         [SetUp]
         public void Setup()
         {
+            arena = new Arena();
         }
 
         [Test]
-        public void EnrollMethodShouldEnrollWarriors()
+        public void Test_ConstructorShouldInitializeWarriorCollectionProperly()
         {
-            var arena = new Arena();
+            int expectedCount = 0;
+            int actualCount = arena.Count;
 
-            foreach (var warrior in warriorsList)
+            Assert.AreEqual(expectedCount, actualCount,
+                "Arena constructor should initialize warrior collection properly (initial Count sould be 0)!");
+        }
+
+        [Test]
+        public void Test_PropertyWarriorsGetterShouldReturnCorrectValuse()
+        {
+            Warrior warrior = new Warrior("name", 1, 1);
+
+            arena.Enroll(warrior);
+
+            IReadOnlyCollection<Warrior> expectedCollectionByReferenceOfObjects = new List<Warrior>() { warrior };
+
+            IReadOnlyCollection<Warrior> actualCollection = arena.Warriors;
+
+            CollectionAssert.AreEqual(expectedCollectionByReferenceOfObjects, actualCollection,
+                "Property \"Warriors\" getter should return the correct values of the inner warrior collection!");
+        }
+
+        [Test]
+        public void Test_MethodEnrollShouldAddGivenWarriorToArenaWarriorCollection()
+        {
+            Warrior expectedWarrior = new Warrior("name", 1, 1);
+
+            arena.Enroll(expectedWarrior);
+
+            IReadOnlyCollection<Warrior> arenaCollection = arena.Warriors;
+
+            Warrior actualWarrior = arenaCollection.FirstOrDefault(w => w.Name == "name");
+
+            Assert.AreEqual(expectedWarrior, actualWarrior,
+                "Method \"Enroll\" should add the given warrior to the arena warrior collection!");
+        }
+
+        [Test]
+        public void Test_MethodEnrollShouldThrowExceptionWhenPassingWarriorWithNameOfExistingWarriorAsArgument()
+        {
+            arena.Enroll(new Warrior("name", 1, 1));
+
+            Assert.Throws<InvalidOperationException>(() => arena.Enroll(new Warrior("name", 1, 1)),
+                "Method \"Enroll\" should throw InvalidOperationException when passing a warrior with the name of an existing warrior as argument!");
+        }
+
+        [Test]
+        public void Test_MethodFightShouldMakeGivenAttackerAttackGivenDefender()
+        {
+            Warrior attacker = new Warrior("attacker", 25, 100);
+            Warrior defender = new Warrior("defender", 20, 50);
+
+            arena.Enroll(attacker);
+            arena.Enroll(defender);
+
+            arena.Fight(attacker.Name, defender.Name);
+
+            int expectedAttackerHP = 80;
+            int actualAttackerHP = attacker.HP;
+
+            int expectedDefenderHP = 25;
+            int actualDefenderHP = defender.HP;
+
+            Assert.That(expectedAttackerHP == actualAttackerHP && expectedDefenderHP == actualDefenderHP,
+                "Method \"Fight\" should make the given attacker attack the given defender (their hp values should be affected)!");
+        }
+
+        [TestCase("name")]
+        [TestCase("name", "otherName")]
+        public void Test_MethodFightShouldThrowExceptionWhenPassingNamesOfOneOrTwoNonExistantWarriors(params string[] warriorNames)
+        {
+            if (warriorNames.Length > 1)
             {
-                arena.Enroll(warrior);
+                arena.Enroll(new Warrior(warriorNames[0], 1, 1));
+                arena.Enroll(new Warrior(warriorNames[1], 1, 1));
             }
 
-            Assert.That(arena.Warriors.Count, Is.EqualTo(warriorsList.Count));
-            Assert.That(arena.Warriors.Count, Is.EqualTo(arena.Count));
-        }
+            else
+                arena.Enroll(new Warrior(warriorNames[0], 1, 1));
 
-        [Test]
-        public void EnrollMethodShouldThrowExceptionIfWarriorWithSameNameIsAdded()
-        {
-            var arena = new Arena();
-            var warriorToEnroll = new Warrior("Test", 10, 100);
-
-            arena.Enroll(warriorToEnroll);
-
-            Assert
-                .Throws<InvalidOperationException>(() => arena.Enroll(warriorToEnroll))
-                .Message.Equals("Warrior is already enrolled for the fights!");
-        }
-
-        [Test]
-        [TestCase("Miro", "Tina")]
-        public void FightMethodShouldThrowExceptionIfWarriorsDoNotExist(string attackerName, string defenderName)
-        {
-            var arena = new Arena();
-
-            foreach (var warrior in warriorsList)
-            {
-                arena.Enroll(warrior);
-            }
-
-            Assert.Throws<InvalidOperationException>(
-                () => arena.Fight(attackerName, defenderName))
-                .Message.Equals($"There is no fighter with name {attackerName} enrolled for the fights!");
-        }
-
-        [Test]
-        [TestCase("Goro", "Tina")]
-        [TestCase("Goro", "Ivan")]
-        [TestCase("Tina", "Lilly")]
-        [TestCase("Lilly", "Ivan")]
-        public void FightMethodShouldSuccessfullyExecute(string attackerName, string defenderName)
-        {
-            // Arrange
-            var arena = new Arena();
-            foreach (var warrior in warriorsList)
-            {
-                arena.Enroll(warrior);
-            }
-
-            Warrior attacker = arena.Warriors
-                .FirstOrDefault(w => w.Name == attackerName);
-            Warrior defender = arena.Warriors
-                .FirstOrDefault(w => w.Name == defenderName);
-
-            int defenderInitialHP = defender.HP;
-
-            arena.Fight(attackerName, defenderName);
-
-            Assert.That(defender.HP, Is.EqualTo(defenderInitialHP - attacker.Damage));
+            Assert.Throws<InvalidOperationException>(() => arena.Fight("attacker", "defender"),
+                "Method \"Fight\" should throw InvalidOperationException when passing names of one or tow non existant warriors!");
         }
     }
 }
