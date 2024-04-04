@@ -1,0 +1,15 @@
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.exe
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.deps.json
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.dll
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.pdb
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.sourcelink.json
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.dll
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\refint\Railway.dll
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.pdb
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+P:\Modules\CSharp_OOP\OOP_Regular_Exam\C# OOP Exam Regular - 09 December 2023\Railway-Skeleton\Railway\obj\Debug\net6.0\ref\Railway.dll
