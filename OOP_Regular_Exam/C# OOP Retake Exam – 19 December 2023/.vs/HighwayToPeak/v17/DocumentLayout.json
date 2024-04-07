@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|p:\\modules\\csharp_oop\\oop_regular_exam\\c# oop retake exam \u2013 19 december 2023\\models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClimberRepository.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Repositories\\ClimberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClimberRepository.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Repositories\\ClimberRepository.cs",
+              "RelativeToolTip": "Repositories\\ClimberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:02:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeakRepository.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Repositories\\PeakRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PeakRepository.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Repositories\\PeakRepository.cs",
+              "RelativeToolTip": "Repositories\\PeakRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:54:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseCamp.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\BaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\BaseCamp.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\BaseCamp.cs",
+              "RelativeToolTip": "Models\\BaseCamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:57:51.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NaturalClimber.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\NaturalClimber.cs",
+              "RelativeDocumentMoniker": "Models\\NaturalClimber.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\NaturalClimber.cs",
+              "RelativeToolTip": "Models\\NaturalClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:54:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OxygenClimber.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\OxygenClimber.cs",
+              "RelativeDocumentMoniker": "Models\\OxygenClimber.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\OxygenClimber.cs",
+              "RelativeToolTip": "Models\\OxygenClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:48:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Climber.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\Climber.cs",
+              "RelativeDocumentMoniker": "Models\\Climber.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\Climber.cs",
+              "RelativeToolTip": "Models\\Climber.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:44:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Peak.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\Peak.cs",
+              "RelativeDocumentMoniker": "Models\\Peak.cs",
+              "ToolTip": "P:\\Modules\\CSharp_OOP\\OOP_Regular_Exam\\C# OOP Retake Exam \u2013 19 December 2023\\Models\\Peak.cs",
+              "RelativeToolTip": "Models\\Peak.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:27:42.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
